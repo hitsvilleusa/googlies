@@ -1,0 +1,11 @@
+Easily add googly eyes to your web page.  Just do the following:
+
+1) Include the googlies.js file.
+2) Add a canvas element to your page somewhere and give it an id.
+3) Add a javascript call like: new Googlies('element_id');
+
+That's it!
+
+If you need help, please feel free to email me.  I can make the code nicer, and the readme better if there is demand.
+
+Enjoy!
